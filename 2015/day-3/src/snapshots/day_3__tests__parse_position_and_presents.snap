@@ -1,0 +1,14 @@
+---
+source: 2015/day-3/src/main.rs
+expression: "parse_position_and_presents(\">\")"
+---
+{
+    Loc {
+        x: 1,
+        y: 0,
+    }: 1,
+    Loc {
+        x: 0,
+        y: 0,
+    }: 1,
+}
